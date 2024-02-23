@@ -1,8 +1,8 @@
 # PySpark_EDA
-Flight delay EDA using PySpark
+USA Flight delay EDA using PySpark
 
 
-Goal: Exploratory data analysis on Flight delay 
+Goal: Exploratory data analysis on USA Flight delay 
 
 Data: find data in https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ
 
